@@ -1,4 +1,4 @@
-Gimport os, sys
+import os, sys
 try:
     __import__("test14").__niki____()
 except Exception as e:
