@@ -1,3 +1,15 @@
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1_3 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7E18 Safari/528.16.us3.3.37
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; es-es) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9A5313e
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; es-es) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8L1
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8L1
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8L1
+Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5 
+
+
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.1 7;  Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 seperti Mac OS X) AppleWebKit/602.4.6 (KHTML, seperti Gecko) Versi/10,0 Mobile/14A346 Safari/E7FBAFL79R) Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.191.0.4686.123 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.1
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.1 10;  Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 seperti Mac OS X) AppleWebKit/602.4.6 (KHTML, seperti Gecko) Versi/10,0 Mobile/14A346 Safari/E7FBAFG532I) Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.178.0.4878.112 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.1
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.1 7;  Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 seperti Mac OS X) AppleWebKit/602.4.6 (KHTML, seperti Gecko) Versi/10,0 Mobile/14A346 Safari/E7FBAFS7Q) Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.181.0.4380.128 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/13.0.5 Mobile/15E148 Safari/604.1
