@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("oXo").sez()
+    __import__("alert").__niki___()
 except Exception as e:
     exit(str(e))
